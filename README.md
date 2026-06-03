@@ -13,4 +13,3 @@ It includes product cards, shopping cart, favorites (wishlist), and modal-based 
 💾 LocalStorage support (data saved after refresh)
 🪟 Modal popup cart & wishlist system
 🍔 Mobile hamburger menu
-🖥️ Preview
