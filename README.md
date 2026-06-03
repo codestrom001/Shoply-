@@ -1,4 +1,6 @@
-🛍️ RedStyle Store
+🛍️ shoply 
+
+live demo link: https://codestrom001.github.io/Shoply-/
 
 A modern responsive e-commerce front-end website built with HTML, CSS, and JavaScript.
 It includes product cards, shopping cart, favorites (wishlist), and modal-based UI — all running on the front end with local storage support.
